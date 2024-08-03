@@ -13,7 +13,9 @@ Paso 2: Definir Columnas
 Paso 3: Revisar Nulos  
 Paso 4: Corregir columnas con errores  
 Paso 5: Limpiar fila Make 
-Paso 6: Guardar archivo limpio
+Paso 6: Modificar saledate
+Paso 7: Realización Columna Year para control de ventas 
+Paso 8: Guardar archivo limpio
 
 # Statistics
 Paso 1: Graficar top 10 marcas mas vendidas
